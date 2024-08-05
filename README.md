@@ -16,7 +16,7 @@ Java Development Kit (JDK) should be installed.
 ## Setup
 Use the line of code below to download the snake game:
 ```
-$ git clone https://github.com/arnav-2022/Snake-Game
+$ git clone https://github.com/arnav-2022/Snake-Game.git
 ```
 
 Once finished downloading, enter the following lines of code in the terminal
